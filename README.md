@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaskarpathak&show_icons=true&theme=radical" alt="Bhaskar's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskarpathak&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhaskar-07892&show_icons=true&theme=radical" alt="Bhaskar's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhaskar-07892&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
