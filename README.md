@@ -7,7 +7,7 @@
 
 💬 Ask me about *Python, SQL, Power BI, Flask, and ML Projects*
 
-📫 How to reach me: *bp255736@gmail.com*
+📫 How to reach me: *bhaskarpathak5607@gmail.com*
 
 📄 Know about my experiences: [My Resume](#) <!-- (Replace # with Google Drive or LinkedIn link) -->
 
