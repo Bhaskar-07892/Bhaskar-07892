@@ -3,7 +3,7 @@
 
 ---
 
-🌱 I’m currently learning *Machine Learning, Deep Learning, and Generative AI*
+🌱 I’m currently learning *Machine Learning, Deep Learning, and NLP*
 
 💬 Ask me about *Python, SQL, Power BI, Flask, and ML Projects*
 
