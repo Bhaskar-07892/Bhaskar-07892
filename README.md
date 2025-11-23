@@ -40,10 +40,10 @@
 
 ## 💼 Projects
 
-- *🔍 E-Commerce Product Recommender* – ML + Power BI  
-- *💧 Water Quality Analyzer* – IoT + Python + Dashboard  
+- *🔍 Reaserch Peper Recommender* – ML   
+- *🔍 Movie Recommender System* – ML
 - *🧠 Mental Health Mood Analyzer* – Deep Learning + Flask  
-- *📈 Stock Price Predictor* – LSTM + Streamlit  
+- *📈 Oil Price Predictor* – Python + HTML/CSS + Fast Api  
 
 > 📌 Check my repositories to explore these projects.
 
